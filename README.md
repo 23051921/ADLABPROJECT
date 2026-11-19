@@ -1,5 +1,10 @@
 # KIIT ERP - Student Attendance & Management System (Prototype)
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![Bootstrap 4](https://img.shields.io/badge/Bootstrap-4.6-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![AdminLTE](https://img.shields.io/badge/AdminLTE-3.2-3c8dbc)](https://adminlte.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository contains the frontend prototype for the **KIIT University Enterprise Resource Planning (ERP)** system. It is designed to demonstrate the user interface and workflow for the HOD and Faculty modules, focusing on student attendance and academic management.
 
 ## 🚀 Project Overview
@@ -23,7 +28,7 @@ This repository contains the frontend prototype for the **KIIT University Enterp
 ## 📦 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/23051921/ADLABPROJECT.git](https://github.com/23051921/ADLABPROJECT.git)
+    git clone https://github.com/23051921/ADLABPROJECT.git
     ```
 2.  **Navigate to the folder:**
     ```bash
